@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 30 23:13:10 ICT 2021
+org.eclipse.jst.jee.server\:nhasachphuongnam=C\:\\apache-tomcat-9.0.41\\wtpwebapps\\nhasachphuongnam
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\DELL\\.m2\\repository\\org\\springframework\\spring-web\\4.3.30.RELEASE\\spring-web-4.3.30.RELEASE.jar=C\:\\apache-tomcat-9.0.41\\wtpwebapps\\nhasachphuongnam\\WEB-INF\\lib\\spring-web-4.3.30.RELEASE.jar
